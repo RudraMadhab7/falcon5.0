@@ -1,0 +1,31 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+   
+}
+#contenor{
+background-color: rgb(22, 82, 104) ;
+border: 10px solid rgb(0, 0, 0);
+/* border-radius: 100px; */
+
+
+}
+  .class{
+    height:180px;
+    width: 180px; 
+     margin: 5px;
+    padding: 10px;   
+} 
+ #Red{
+    margin-left: 600px ;
+    background-color: red;
+}
+#grean{
+    margin-left: 600px;
+    background-color: green;
+}
+#blue{
+    margin-left: 600px;
+    background-color: blue;
+} 
