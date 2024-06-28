@@ -140,4 +140,14 @@ conditional statement :-
     } else {
         statement
     }
+ loop:-
+ syntax-
+ for( intializaton;conditon;updation){
+    statement
+ }
+ ex=
+ for (let i= 0; i <=5; i++) {
+    console.log("web bocket")
+    
+}
 

@@ -122,10 +122,11 @@
    // console.log(newstring);
 
    //trim()
-   //  let str="  rudra";
-   //  console.log(str.trim());
-
-   //slice()
+   //remove starting and ending wide space
+//  let str="  rudra";
+//     console.log(str.trim());
+  
+//slice()
    
    // let str="0123";
    // console.log(str.slice(1,6)); //slice provide in between starting andending value
