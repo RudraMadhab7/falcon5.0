@@ -22,8 +22,57 @@
 //  mark[0]=34;
 //  console.log(mark)
 
- let heroes=["ironman","thor","spiderman"];
- for(let idx=0;idx<heroes.length;idx++){
-    console.log(heroes[idx]);
- }
+//  let heroes=["ironman","thor","spiderman"];
+//  for(let idx=0;idx<heroes.length;idx++){
+//     console.log(heroes[idx]);
+//  }
+
+//array method
+ //Push()
+//  let foodItems=["potato","apple","litchi"]
+//  foodItems.push("chips","bburger","paneer");
+//  console.log(foodItems);
+//pop()
+
+// let foodItems=["potato","apple","litchi"]
+//  foodItems.push("chips","bburger","paneer");
+//  let deletedItem=foodItems.pop();
+//  console.log(deletedItem);
+
+//tostring()
+// let foodItems=["potato","apple","litchi"]
+// console.log(foodItems.toString());
+// console.log(foodItems);
+
+//concat()
+// let marverl_heroes=["thor","spiderman",]
+// let dc_heroes=["superman","batman"]
+
+// hello=marverl_heroes.concat(dc_heroes);
+// console.log(marverl_heroes);
+// console.log(hello);
+
+//unshift()
+
+// let marvelHeroes=["thor","spiderman","ironman"];
+// marvelHeroes.unshift("antman")
+// console.log(marvelHeroes);
+
+//slice()
+// let marvelHeroes=["thor","spiderman","ironman"];
+// console.log(marvelHeroes);
+// console.log(marvelHeroes.slice(1,2));
+
+//splice()
+// let arr=[1,2,3,4,5]
+//add element
+// arr.splice(2,0,101)
+// console.log(arr);
+
+//delete element
+// arr.splice(3,1);
+// console.log(arr);
+//Replace element
+// arr.splice(3,1,101)
+// console.log(arr);
  
